@@ -1,3 +1,14 @@
+This version in fuction StartConfigPortal returns
+
+String * __ssid
+String * __pass
+
+and does NOT try to connect to WiFi (you should do it yourself after call StartConfigPortal)
+
+Original version is on:
+https://github.com/tzapu/WiFiManager
+
+
 ## Current development going on here :arrow_right: [Development Branch](https://github.com/tzapu/WiFiManager/tree/development)
 
 # WiFiManager
